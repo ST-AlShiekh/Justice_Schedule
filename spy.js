@@ -249,50 +249,104 @@ const members = [
     name: "Osama Al-Shiekh",
     rank: "Deputy Chief of DOJ"
   },
+
+  {
+    name: "Lorans Smith",
+    rank: "Attorney General"
+  },
+   
    {
     name: "Mnasour Al-shiekh",
-    rank: "Junior Attorney"
+    rank: "Judge"
   },
 
 
   {
     name: "Hilyel Al-shehri",
+    rank: "Judge"
+  },
+
+  {
+    name: "FEDERAL BLACK",
+    rank: "Prosecutor"
+  },
+
+
+
+
+
+   
+  {
+    name: "Preston Bradley",
     rank: "Junior Attorney"
   },
 
 
+   
+
 
   {
-    name: "Frank Caprio",
-    rank: "Law Student"
+    name: "Abu Shereen",
+    rank: "Trainee Attorney"
   },
-
-
-
+   
   {
     name: "Harvey Sperter",
-    rank: "Law Student"
+    rank: "Trainee Attorney"
   },
-
-
+   
+  {
+    name: "Lyloozy Al-Anazi",
+    rank: "Trainee Attorney"
+  },
 
   {
-    name: "Aziz",
-    rank: "Law Student"
+    name: "Yaroslav James",
+    rank: "Trainee Attorney"
   },
 
+ {
+    name: "Abu Khairain",
+    rank: "Trainee Attorney"
+  },
+
+ {
+    name: "Adrian Cole",
+    rank: "Trainee Attorney"
+  },
+
+ {
+    name: "Mohammed Al-harbi",
+    rank: "Trainee Attorney"
+  },
+
+    {
+    name: "Morph Qeez",
+    rank: "Trainee Attorney"
+  },
+
+    {
+    name: "Sayaf Al-juhani",
+    rank: "Trainee Attorney"
+  },
 
 
   {
     name: "Fares Al-Fares",
-    rank: "Law Student"
+    rank: "Trainee Attorney"
   }, 
 
 
+  /*  {
+    name: "",
+    rank: "Trainee Attorney"
+  },
 
 
-
-
+    {
+    name: "",
+    rank: "Trainee Attorney"
+  },*/
 
   
 ];
