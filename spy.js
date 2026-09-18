@@ -266,6 +266,16 @@ const members = [
     rank: "Judge"
   },
 
+ {
+    name: "Albert bradley",
+    rank: "Prosecutor"
+  },
+
+    {
+    name: "Bruce Wilson",
+    rank: "Prosecutor"
+  },
+   
   {
     name: "FEDERAL BLACK",
     rank: "Prosecutor"
@@ -274,7 +284,10 @@ const members = [
 
 
 
-
+ {
+    name: "Harvey Sperter",
+    rank: "Junior Attorney"
+  },
    
   {
     name: "Preston Bradley",
@@ -289,9 +302,14 @@ const members = [
     name: "Abu Shereen",
     rank: "Trainee Attorney"
   },
+
+    {
+    name: "Adrian Cole",
+    rank: "Trainee Attorney"
+  },
    
   {
-    name: "Harvey Sperter",
+    name: "MARKO ALSHMMARI",
     rank: "Trainee Attorney"
   },
    
