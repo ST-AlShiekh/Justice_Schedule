@@ -268,7 +268,7 @@ const members = [
 
  {
     name: "Albert bradley",
-    rank: "Prosecutor"
+    rank: "Judge"
   },
 
     {
@@ -278,6 +278,11 @@ const members = [
    
   {
     name: "FEDERAL BLACK",
+    rank: "Prosecutor"
+  },
+
+   {
+    name: "Victor Bradly",
     rank: "Prosecutor"
   },
 
@@ -353,6 +358,12 @@ const members = [
     name: "Fares Al-Fares",
     rank: "Trainee Attorney"
   }, 
+    
+   {
+    name: "Leo Bradly",
+    rank: "Trainee Attorney"
+  }, 
+
 
 
   /*  {
