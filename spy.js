@@ -329,11 +329,6 @@ const members = [
   },
 
  {
-    name: "Abu Khairain",
-    rank: "Trainee Attorney"
-  },
-
- {
     name: "Adrian Cole",
     rank: "Trainee Attorney"
   },
