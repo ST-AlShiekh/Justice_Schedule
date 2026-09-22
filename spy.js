@@ -281,6 +281,12 @@ const members = [
     rank: "Prosecutor"
   },
 
+    {
+    name: "Frank Capio",
+    rank: "Prosecutor"
+  },
+
+
    {
     name: "Victor Bradly",
     rank: "Prosecutor"
@@ -356,6 +362,11 @@ const members = [
     
    {
     name: "Leo Bradly",
+    rank: "Trainee Attorney"
+  },
+
+     {
+    name: "Fahad Almutairi",
     rank: "Trainee Attorney"
   }, 
 
